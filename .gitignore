@@ -1,0 +1,29 @@
+# Sensitive authentication & session files (NEVER commit)
+.token
+.credentials
+.env
+*.key
+
+# Runtime logs & trade journals
+log_*.txt
+*.log
+bot_monitor_log.txt
+heartbeat_log.txt
+trade_journal.txt
+validator_log.txt
+
+# Runtime generated intelligence & market snapshots
+data_*.json
+data_raw_reports.txt
+blacklisted_traders.json
+intelligence_insights.json
+market_insights.json
+strategy_insights.json
+positions.json
+raw_strategies.txt
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,7 @@
+# Example Strategy Reports for Bot 6 (The Strategist)
+# Rename or copy this file to `data_raw_reports.txt` and paste plain-text market
+# analyses or AI strategy summaries. Tickers mentioned >= 2 times are scored
+# automatically and passed to Bot 4 (Guardian) for live validation.
+
+REPORT #1: Momentum breakout watch on NVDA, AAPL and BTC with strong institutional flow.
+REPORT #2: Top AI consensus picks for the week include NVDA, SOL and BTC on rising volume.
